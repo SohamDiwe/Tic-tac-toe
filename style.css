@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to right, #750cc0, #0fa0e9);
+    text-align: center;
+
+  }
+  .dive{
+   padding: 20px;
+   margin: 10px;
+   height: 18vmin;
+   width: 18vmin;
+   border-radius: 20px;
+   box-shadow: 0 0 1rem rgba(0 , 0,0, 0.1);
+   background-color: rgb(176, 255, 80);
+   font-size: 8vmin ;
+  }
+  h1{
+    color: rgb(198, 235, 14);
+  }
+  .reset-btn{
+    background-color: chartreuse;
+    height: 60px;
+    width: 80px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 3vmin;
+    margin-top: 60px;
+
+  }
+.msg{
+    color: whitesmoke;
+   
+    border-radius: 10px;
+    background-color: #750cc0;
+    font-size:bolder;
+
+}
+.hide{
+    display: none;
+}
+.new-game-btn{
+  background-color: chartreuse;
+  height: 60px;
+  width: 80px;
+  border-radius: 10px;
+  font-weight: bolder;
+  font-size: 3vmin;
+  margin-top: 60px;
+
+}
